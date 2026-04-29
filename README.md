@@ -5,6 +5,7 @@ download: https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/downl
 download: https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.8.5/mhrv-rs-android-arm64-v8a-v1.8.5.apk
 download: https://github.com/sartoopjj/thefeed/releases/download/v0.12.2/thefeed-android-v0.12.2-arm64.apk
 download: https://github.com/Kianmhz/GooseRelayVPN/releases/download/v1.3.0/GooseRelayVPN-client-v1.3.0-android-arm64.tar.gz
+download: https://github.com/Kianmhz/GooseRelayVPN/releases/download/v1.3.0/GooseRelayVPN-client-v1.3.0-windows-amd64.zip
 ---
 
 
