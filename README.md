@@ -3,7 +3,7 @@
 download: https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.8.5/mhrv-rs-windows-amd64.zip
 download: https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.8.5/mhrv-rs-android-armeabi-v7a-v1.8.5.apk
 download: https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.8.5/mhrv-rs-android-arm64-v8a-v1.8.5.apk
-download https://github.com/sartoopjj/thefeed/releases/download/v0.12.2/thefeed-android-v0.12.2-arm64.apk
+download: https://github.com/sartoopjj/thefeed/releases/download/v0.12.2/thefeed-android-v0.12.2-arm64.apk
 ---
 
 
