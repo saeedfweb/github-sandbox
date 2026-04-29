@@ -7,6 +7,7 @@ download: https://github.com/sartoopjj/thefeed/releases/download/v0.12.2/thefeed
 download: https://github.com/Kianmhz/GooseRelayVPN/releases/download/v1.3.0/GooseRelayVPN-client-v1.3.0-android-arm64.tar.gz
 download: https://github.com/Kianmhz/GooseRelayVPN/releases/download/v1.3.0/GooseRelayVPN-client-v1.3.0-windows-amd64.zip
 download: https://github.com/Kianmhz/GooseRelayVPN/releases/download/v1.3.0/GooseRelayVPN-server-v1.3.0-darwin-amd64.tar.gz
+download https://telegram.org/dl/desktop/win64
 ---
 
 
