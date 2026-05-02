@@ -9,6 +9,7 @@ download https://github.com/Kianmhz/GooseRelayVPN/releases/download/v1.3.0/Goose
 download https://github.com/Kianmhz/GooseRelayVPN/releases/download/v1.3.0/GooseRelayVPN-server-v1.3.0-darwin-amd64.tar.gz
 download https://telegram.org/dl/desktop/win64
 download https://github.com/Starling226/vaydns-vpn/releases/download/v1.7.8/VaydnsVpn-v1.7.8-arm64-v8a.apk
+download https://github.com/Starling226/vaydns-vpn/releases/download/v1.7.8/VaydnsVpn-v1.7.8-armeabi-v7a.apk
 ---
 
 
