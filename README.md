@@ -1,13 +1,14 @@
 # github-sandbox.....
 ---
-download: https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.8.5/mhrv-rs-windows-amd64.zip
-download: https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.8.5/mhrv-rs-android-armeabi-v7a-v1.8.5.apk
-download: https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.8.5/mhrv-rs-android-arm64-v8a-v1.8.5.apk
-download: https://github.com/sartoopjj/thefeed/releases/download/v0.12.2/thefeed-android-v0.12.2-arm64.apk
-download: https://github.com/Kianmhz/GooseRelayVPN/releases/download/v1.3.0/GooseRelayVPN-client-v1.3.0-android-arm64.tar.gz
-download: https://github.com/Kianmhz/GooseRelayVPN/releases/download/v1.3.0/GooseRelayVPN-client-v1.3.0-windows-amd64.zip
-download: https://github.com/Kianmhz/GooseRelayVPN/releases/download/v1.3.0/GooseRelayVPN-server-v1.3.0-darwin-amd64.tar.gz
+download https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.8.5/mhrv-rs-windows-amd64.zip
+download https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.8.5/mhrv-rs-android-armeabi-v7a-v1.8.5.apk
+download https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.8.5/mhrv-rs-android-arm64-v8a-v1.8.5.apk
+download https://github.com/sartoopjj/thefeed/releases/download/v0.12.2/thefeed-android-v0.12.2-arm64.apk
+download https://github.com/Kianmhz/GooseRelayVPN/releases/download/v1.3.0/GooseRelayVPN-client-v1.3.0-android-arm64.tar.gz
+download https://github.com/Kianmhz/GooseRelayVPN/releases/download/v1.3.0/GooseRelayVPN-client-v1.3.0-windows-amd64.zip
+download https://github.com/Kianmhz/GooseRelayVPN/releases/download/v1.3.0/GooseRelayVPN-server-v1.3.0-darwin-amd64.tar.gz
 download https://telegram.org/dl/desktop/win64
+download https://github.com/Starling226/vaydns-vpn/releases/download/v1.7.8/VaydnsVpn-v1.7.8-arm64-v8a.apk
 ---
 
 
