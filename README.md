@@ -10,6 +10,7 @@ download https://github.com/Kianmhz/GooseRelayVPN/releases/download/v1.3.0/Goose
 download https://telegram.org/dl/desktop/win64
 download https://github.com/Starling226/vaydns-vpn/releases/download/v1.7.8/VaydnsVpn-v1.7.8-arm64-v8a.apk
 download https://github.com/Starling226/vaydns-vpn/releases/download/v1.7.8/VaydnsVpn-v1.7.8-armeabi-v7a.apk
+https://github.com/iampedii/WhiteDNS/releases/download/1.0.0/WhiteDNS-1.0.0-arm64-v8a.apk
 ......
 
 
