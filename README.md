@@ -12,7 +12,8 @@ download https://github.com/Starling226/vaydns-vpn/releases/download/v1.7.8/Vayd
 download https://github.com/Starling226/vaydns-vpn/releases/download/v1.7.8/VaydnsVpn-v1.7.8-armeabi-v7a.apk
 https://github.com/iampedii/WhiteDNS/releases/download/1.0.0/WhiteDNS-1.0.0-arm64-v8a.apk
 https://github.com/iampedii/WhiteDNS/releases/download/1.0.0/WhiteDNS-1.0.0-armeabi-v7a.apk
-.......
+https://github.com/iampedii/WhiteDNS/releases/download/1.1.0/WhiteDNS-1.1.0-universal.apk
+........
 
 
 
