@@ -1,5 +1,7 @@
 # github-sandbox......
 
+download: https://github.com/iampedii/WhiteDNS/releases/download/1.2.0/WhiteDNS-1.2.0-universal.apk
+
 download https:/ /github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.8.5/mhrv-rs-windows-amd64.zip
 download https:/ /github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.8.5/mhrv-rs-android-armeabi-v7a-v1.8.5.apk
 download https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/download/v1.8.5/mhrv-rs-android-arm64-v8a-v1.8.5.apk
